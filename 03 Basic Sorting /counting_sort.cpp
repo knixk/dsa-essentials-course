@@ -2,8 +2,6 @@
 #include<vector>
 using namespace std;
 
-
-
 void counting_sort(int a[],int n){
 	//Largest Element
 	int largest = -1;
@@ -21,7 +19,6 @@ void counting_sort(int a[],int n){
 	}
 
 	//Put back the elements from freq into original array
-
 	int j = 0;
 	for(int i=0; i<=largest; i++){
 

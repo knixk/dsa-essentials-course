@@ -17,10 +17,7 @@ void insertion_sort(int a[],int n){
 
 		a[prev+1] = current; 
 	}
-
-
 }
-
 
 int main(){
 	int arr[] = {-2,3,4,-1,5,-12,6,1,3};

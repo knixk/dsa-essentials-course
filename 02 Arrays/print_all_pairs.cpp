@@ -20,6 +20,7 @@ void printSubarrays(int arr[],int n){
 
 
 int main(){
+
 	//Array Containing 
 	int arr[] = {-2,3,4,5,-12,6,2,3};
 	int n = sizeof(arr)/sizeof(int);

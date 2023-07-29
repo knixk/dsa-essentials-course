@@ -14,7 +14,6 @@ int linear_search(int arr[],int n,int key){
 	return -1;
 }
 
-
 int main(){
 
 	int arr[] = {10,15,12,9,6,4,3,10,8};

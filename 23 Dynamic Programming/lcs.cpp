@@ -2,7 +2,6 @@
 #include<vector>
 using namespace std;
 
-
 int lcs(string s1,string s2,int i,int j,vector<vector<int> > &dp){
 	//base case
 	if(i==s1.length() or j==s2.length()){
